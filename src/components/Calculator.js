@@ -16,7 +16,7 @@ function Calculator() {
   return (
     <div>
       <table>
-        <Display total={disp} />
+        <Display total={String(disp)} />
         <tbody>
           <tr>
             <td>

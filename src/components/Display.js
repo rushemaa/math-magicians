@@ -1,4 +1,4 @@
-import { ReactPropTypes } from 'react';
+import { PropTypes } from 'prop-types';
 
 function Display({ total }) {
   return (
@@ -18,5 +18,5 @@ Display.defaultProps = {
 };
 
 Display.propTypes = {
-  total: ReactPropTypes.string,
+  total: PropTypes.string,
 };
