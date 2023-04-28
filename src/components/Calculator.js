@@ -94,7 +94,7 @@ function Calculator() {
             <td>
               <button
                 type="button"
-                value="*"
+                value="x"
                 onClick={(e) => setObj(calculate(obj, e.target.value))}
                 className="btn btn-orange"
               >
