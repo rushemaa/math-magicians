@@ -1,0 +1,34 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  margin-left: 20px;
+  margin-top: initial;
+}
+
+nav {
+  display: flex;
+  margin-right: 20px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  color: blue;
+  border-right: 2px solid black;
+}
+
+li a {
+  color: blue;
+  padding: 5px 10px;
+}
+
+li:last-child {
+  border-right: none;
+}
