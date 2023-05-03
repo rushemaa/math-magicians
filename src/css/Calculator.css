@@ -2,13 +2,21 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+}
+
+.calculator-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
 }
 
 table {
   border-spacing: initial;
-  width: auto;
+  width: 40%;
+}
+
+.calculator-wrapper h2 {
+  margin: initial;
 }
 
 td,
