@@ -54,8 +54,8 @@ In this project:
 
 ### Key Features <a name="key-features">
 
-- **[key_feature_1]** This website, built with React, css and JavaScript.
-- **[key_feature_2]** Single page
+- This website, built with React, css and JavaScript.
+- Single page
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,7 +88,7 @@ To get a local copy up and running,clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Calculator**
+- **More design to make it look much better**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
